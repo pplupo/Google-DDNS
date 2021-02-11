@@ -1,0 +1,3 @@
+hostname=subdomain.example.com
+username=your DDNS username (not your Google Domain credentials)
+password=your DDNS password (not your Google Domain credentials)
